@@ -1,0 +1,5 @@
+C:\Users\Eduardo Donzeli\source\repos\ComunicacaoSerialFMX\ComunicacaoSerialFMX\bin\Debug\ComunicacaoSerialFMX.dll
+C:\Users\Eduardo Donzeli\source\repos\ComunicacaoSerialFMX\ComunicacaoSerialFMX\bin\Debug\ComunicacaoSerialFMX.pdb
+C:\Users\Eduardo Donzeli\source\repos\ComunicacaoSerialFMX\ComunicacaoSerialFMX\obj\Debug\ComunicacaoSerialFMX.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Donzeli\source\repos\ComunicacaoSerialFMX\ComunicacaoSerialFMX\obj\Debug\ComunicacaoSerialFMX.dll
+C:\Users\Eduardo Donzeli\source\repos\ComunicacaoSerialFMX\ComunicacaoSerialFMX\obj\Debug\ComunicacaoSerialFMX.pdb
